@@ -1,4 +1,4 @@
-Presrntation of application "Lick predictions by shoe size"
+Presentation of application "Lick predictions by shoe size"
 ========================================================
 author: Natalia Kuraeva
 date: 01.07.2021
